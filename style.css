@@ -51,6 +51,7 @@ body {
 
 .content {
   padding: 25px 15px;
+  flex: 0 1 auto;
 }
 
 .caption {
