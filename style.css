@@ -76,7 +76,7 @@ body {
   padding: 40px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 805px) {
   .header,
   .footer {
     display: none;
